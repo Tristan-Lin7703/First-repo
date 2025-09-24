@@ -1,4 +1,4 @@
-#heading
+*#heading*
 **What is your favorite hobby?**
 Gaming 
 **How did you get interested in this hobby?**
@@ -8,6 +8,6 @@ Talking with friends, joined in playing
 **What do you enjoy most about it?**
 Enteritainment and interaction with others
 **Have you learned anything new or interesting from doing this hobby?**
-working in teams can be helpful sometimes
+working in teams can be helpful sometimes/without a team u will be in a disadvantages
 **Share a fun fact or interesting story related to your hobby.**
 could be incredibly painful sometimes
